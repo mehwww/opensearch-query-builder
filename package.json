@@ -1,0 +1,12 @@
+{
+  "name": "opensearch-query-builder",
+  "version": "0.1.0",
+  "description": "Aliyun OpenSearch query builder",
+  "main": "index.js",
+  "author": "mehwww",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mehwww/opensearch-query-builder"
+  }
+}
