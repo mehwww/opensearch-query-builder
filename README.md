@@ -1,5 +1,8 @@
 # opensearch-query-builder
+
 阿里云开放搜索查询url构建工具
+
+详细使用方法请参考阿里云 [OpenSearch API 参考手册](http://docs.aliyun.com/#/pub/opensearch/api-reference/terminology)
 
 ## Install
 ```bash
@@ -72,7 +75,7 @@ request(url, function (error, response, body) {
 指定 disable 参数
 
 ### `.firstFormulaName(string)`
-指定 first_formula_name 参数
+指定 first\_formula\_name 参数
 
 ### `.formulaName(string)`
 指定 formula_name 参数

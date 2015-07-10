@@ -1,6 +1,6 @@
 {
   "name": "opensearch-query-builder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Aliyun OpenSearch query builder",
   "main": "index.js",
   "author": "mehwww",
